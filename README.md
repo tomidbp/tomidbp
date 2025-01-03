@@ -1,10 +1,12 @@
 ## Hi there 👋
+<img align="right" height="150" src="https://camo.githubusercontent.com/0eef221e9f6860ff96dc4a66414e4398ac0193dca847f223ec1e8c37c77f507a/68747470733a2f2f692e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578626e5231636d303459574e704e57686f65487032626e426d6348467763484a736258466e5a324e68596d4578655456344d4773354d435a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f5345614b4e784a674f665537362f67697068792e676966" />
 
-<h3 align="left">Hello 👋</h3>
+<h3 align="left">Hello 👋</h3> 
 
 ###
 
 <p align="left">My name is Tamas Gyorffy and I'm a QA Tester, from Cluj-Napoca, Romania.</p>
+
 
 ###
 
@@ -17,7 +19,7 @@
 
 ###
 
-<h3 align="left">I code with, well what I am currently learning, step by step</h3>
+<h3 align="left">What I am currently learning, step by step</h3>
 
 ###
 
