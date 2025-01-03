@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2014 but as a Game Tester.<br>📚 I'm currently learning MySQL, API using Postman, Selenium with Python, Javascript, HTML, CSS and Playwright with Javascript. <br>🎯 Goals: To find a new position as QA where I can learn and put into practice all these skills. <br>🎲 Fun fact: I play in a metal band as a lead vocalist, also I am passionate about football and going to the gym. <br>📫 
+<p align="left">✨ Creating bugs since 2014 but as a Game Tester.<br>📚 I'm currently learning MySQL, API using Postman, Selenium with Python, Javascript, HTML, CSS and Playwright with Javascript. <br>🎯 Goals: To find a new position as QA where I can learn and put into practice all these skills. <br>🎲 Fun fact: I play in a metal band as a lead vocalist, also I am passionate about football and going to the gym. <br> 💬 Languages: Hungarian, Romanian, English <br>📫 
  Gmail: tomi.gyorffy26@gmail.com</p>
 
 ###
